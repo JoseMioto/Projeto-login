@@ -38,7 +38,7 @@ main{
     width: 250px;
     height: 500px;
     border-radius: 20px;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.473);
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.473);
 }
 
 #imagem{
@@ -54,4 +54,12 @@ main{
 #formulario{
     display: block;
     padding: 10px;
+}
+
+#botao{
+    background-color: #7FA653;
+    border-radius: 5px;
+    width: 245px;
+    height: 20px;
+    
 }
